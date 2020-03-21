@@ -1,0 +1,72 @@
+.glyphicon-chevron-right {
+	color: brown;
+}	
+
+.glyphicon-chevron-left {
+	color: brown;
+}	
+
+.carousel-caption {
+	color: brown; 
+}	
+
+.carousel-indicators li {
+	background-color: white;
+}
+
+.carousel-indicators .active {
+	background-color: brown;
+}
+
+.nav-pills > li.active > a, .nav-pills > li.active > a:focus {
+	color: yellow;
+	background-color: brown;
+}
+
+.nav-pills > li > a {
+	color: brown;
+}
+
+.nav-pills > li.active > a:hover {
+	color: yellow;
+	background-color: brown;
+}
+
+.panel-default > .panel-heading {
+	background-color: brown;
+}
+
+.panel-default > .panel-heading > h4 > a{
+	color: yellow; 
+}
+
+.center-pills {
+ 	display: flex;
+ 	justify-content: center;
+}
+
+h2 {
+	color: brown;
+}
+
+h3 {
+	color: brown;
+}
+
+#accordion {
+	text-align: center;
+}
+
+.panel-body {
+	text-align: left;
+}
+
+img {
+	height: 50%;
+}
+
+
+
+
+
+
